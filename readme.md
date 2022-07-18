@@ -3,8 +3,8 @@
 # Tugas Besar Komunikasi Data Kelompok 1 (Sore)
 
 ### Anggota:
-<br>1. Muhammad Riyadhtul Akbar (1922011)
-<br>2. Fajar Bimantara (1922027)
+1. Muhammad Riyadhtul Akbar (1922011)
+2. Fajar Bimantara (1922027)
 
 
 # __ScanNetworkWiFi__
@@ -13,5 +13,5 @@ Program memindai jaringan WiFi dan mengetahui kekuatan sinyal masing-masing jari
 Data hasil pemindaian NodeMCU V3 akan dikirim ke Telegram menggunakan channel BotFather melalui webserver.
 
 
-# Nama Bot Telegram 
+# Nama Bot Telegram
 @scanwins_bot
