@@ -14,4 +14,4 @@ Data hasil pemindaian NodeMCU V3 akan dikirim ke Telegram menggunakan channel Bo
 
 
 # Nama Bot Telegram
-@scanwins_bot
+[@scanwins_bot](https://t.me/scanwins_bot)
